@@ -2,4 +2,4 @@
  Divide and Conquer Algorithm 
  
  Some of Leetcode probelm solutions
- 
+ All solutions are in Python.
