@@ -8,5 +8,4 @@
 
     	if not left < node.val < right:
     		return False
-
     	return (self.checkBst(node.left,left,node.val)) and (self.checkBst(node.right, node.val, right))
